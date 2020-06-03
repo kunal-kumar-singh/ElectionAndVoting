@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="93" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                          <Component id="ElectionIdLabel" alignment="0" max="32767" attributes="0"/>
+                          <Component id="UserIdLabel" alignment="0" max="32767" attributes="0"/>
+                          <Component id="VoterNameLabel" alignment="0" max="32767" attributes="0"/>
+                          <Component id="ConstituencyLabel" alignment="0" max="32767" attributes="0"/>
+                          <Component id="SelectCandidateLabel" alignment="0" pref="154" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="87" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="ElectionIdResultLabel" pref="434" max="32767" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="UserIdResultLabel" max="32767" attributes="0"/>
+                              <Component id="NameResultLabel" max="32767" attributes="0"/>
+                              <Component id="ConstituencyResultLabel" max="32767" attributes="0"/>
+                              <Component id="CandidateBox" alignment="0" pref="277" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="WelcomeLabel" min="-2" pref="636" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+              <Component id="ImageLabel" pref="300" max="32767" attributes="0"/>
+              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="84" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="SelectionResultLabel" min="-2" pref="288" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="RateAndSubmitFeedbackButton" min="-2" pref="219" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                      <Component id="SubmitButton" min="-2" pref="259" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Component id="BackButton" min="-2" pref="238" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="WelcomeLabel" min="-2" pref="66" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="ElectionIdLabel" pref="33" max="32767" attributes="0"/>
+                  <Component id="ElectionIdResultLabel" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="UserIdResultLabel" alignment="3" min="-2" pref="51" max="-2" attributes="0"/>
+                  <Component id="UserIdLabel" alignment="3" min="-2" pref="51" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="NameResultLabel" alignment="3" min="-2" pref="45" max="-2" attributes="0"/>
+                          <Component id="VoterNameLabel" alignment="3" min="-2" pref="45" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="ConstituencyResultLabel" alignment="3" min="-2" pref="45" max="-2" attributes="0"/>
+                          <Component id="ConstituencyLabel" alignment="3" min="-2" pref="45" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="SelectCandidateLabel" max="32767" attributes="0"/>
+                          <Component id="CandidateBox" pref="41" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Component id="ImageLabel" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="32" max="32767" attributes="0"/>
+              <Component id="SelectionResultLabel" min="-2" pref="40" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="SubmitButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="BackButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="RateAndSubmitFeedbackButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="WelcomeLabel">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Noto Sans" size="24" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="                        Welcome To Voting Portal"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="UserIdResultLabel">
+    </Component>
+    <Component class="javax.swing.JLabel" name="NameResultLabel">
+    </Component>
+    <Component class="javax.swing.JLabel" name="ConstituencyResultLabel">
+    </Component>
+    <Component class="javax.swing.JLabel" name="UserIdLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Voter userid"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="VoterNameLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Voter Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ConstituencyLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Constituency"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="CandidateBox">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="4">
+            <StringItem index="0" value="Item 1"/>
+            <StringItem index="1" value="Item 2"/>
+            <StringItem index="2" value="Item 3"/>
+            <StringItem index="3" value="Item 4"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CandidateBoxActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="SelectCandidateLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Select Candidate"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="SelectionResultLabel">
+    </Component>
+    <Component class="javax.swing.JButton" name="SubmitButton">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="32" green="7e" red="3f" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Submit"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SubmitButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ElectionIdLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ElectionId"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ElectionIdResultLabel">
+    </Component>
+    <Component class="javax.swing.JButton" name="BackButton">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="be" green="11" red="3e" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="BackToProfile"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BackButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="RateAndSubmitFeedbackButton">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="a" green="6c" red="f0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Rate And Submit Feedback"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="RateAndSubmitFeedbackButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ImageLabel">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/BackGroungImage/votefinger.jpeg"/>
+        </Property>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>

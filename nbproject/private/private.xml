@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/VoterPackage/VoterHomePage.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/AdminPackage/AdminHomePage.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/CandidatePackage/NominationFiling.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/VoterPackage/VotingPage.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/HomePagePackage/RegistrationHomePage.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/HomePagePackage/Details.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/ElectionPackage/ElectionDeletion.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/HomePagePackage/LogIn.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/ElectionPackage/ElectionCreation.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/ElectionPackage/ResultPage.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/HomePagePackage/Registration.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/HomePagePackage/ApplicationStatus.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/CandidatePackage/CandidatePoliticalHistoryPage.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/HomePagePackage/ApplicationConfirmation.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/ElectionPackage/ConstituencyWiseElectionResult.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/HomePagePackage/MainPage.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/ElectionPackage/PartyWiseElectionResult.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/AdminPackage/ApproveOrReject.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/CandidatePackage/CandidateHomePage.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/ElectionPackage/ElectionActionConfirmation.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/ElectionPackage/ActiveElection.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/ElectionPackage/DeclareResult.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/HomePagePackage/LoginHomePage.java</file>
+            <file>file:/home/kunal/NetBeansProjects/ElectionAndVotingApplication/src/RatingsAndFeedback/RatingAndFeedbackPage.java</file>
+        </group>
+    </open-files>
+</project-private>
