@@ -22,9 +22,11 @@ public class ApplicationConfirmation extends javax.swing.JFrame {
         this.confirmation_type=confirmation_type;
         WelcomeLabel.setText("Welcome To "+this.confirmation_type+" Application Portal!");
         ApplicationIdResultLabel.setText(application_id);
+       
     }
     public ApplicationConfirmation() {
         initComponents();
+        System.out.println("ApplicationConfirmation");
        
     }
 

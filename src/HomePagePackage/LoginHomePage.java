@@ -20,6 +20,7 @@ public class LoginHomePage extends javax.swing.JFrame {
     private String login_type;
     public LoginHomePage() {
         initComponents();
+        System.out.println("LoginHomePage");
     }
 
     /**
