@@ -22,7 +22,7 @@ public class LogIn extends javax.swing.JFrame {
     private boolean allowlogin=false;
     public LogIn() {
         initComponents();
-        System.out.println("LogIn");
+        
     }
     public LogIn(String login_type) {
         initComponents();

@@ -20,7 +20,7 @@ public class Details extends javax.swing.JFrame {
     private String voter_name,father_spouse_name,age,address,constituency,userid,password,candidate_name,party_name,details_type;
     public Details() {
         initComponents();
-        System.out.println("Details");
+        
     }
     public Details(String userid,String name,String password,String details_type) {
         initComponents();

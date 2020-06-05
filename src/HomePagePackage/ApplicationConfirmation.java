@@ -26,8 +26,7 @@ public class ApplicationConfirmation extends javax.swing.JFrame {
     }
     public ApplicationConfirmation() {
         initComponents();
-        System.out.println("ApplicationConfirmation");
-       
+        
     }
 
     /**

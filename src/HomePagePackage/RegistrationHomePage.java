@@ -20,7 +20,7 @@ public class RegistrationHomePage extends javax.swing.JFrame {
      */
     public RegistrationHomePage() {
         initComponents();
-        System.out.println("RegistrationHomePage");
+        
          
     }
 

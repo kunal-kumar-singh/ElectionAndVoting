@@ -46,7 +46,7 @@ public class ApplicationStatus extends javax.swing.JFrame {
     
     public ApplicationStatus() {
         initComponents();
-        System.out.println("ApplicationStatus");
+       
     }
 
     /**

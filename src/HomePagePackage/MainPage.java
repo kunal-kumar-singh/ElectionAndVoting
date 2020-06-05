@@ -23,7 +23,7 @@ public class MainPage extends javax.swing.JFrame {
      */
     public MainPage() {
         initComponents();
-        System.out.println("MainPage");
+        
     }
 
     /**

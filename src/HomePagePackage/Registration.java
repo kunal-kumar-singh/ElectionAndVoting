@@ -20,7 +20,7 @@ public class Registration extends javax.swing.JFrame {
     private String registration_type,application_id,name,father_spouse_name,age,address,constituency,userid,password,status="PENDING",job_level,party_name;
     public Registration() {
         initComponents();
-       System.out.println("Registration");
+       
        
     }
     public Registration(String registration_type) {
